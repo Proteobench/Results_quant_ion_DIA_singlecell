@@ -1,0 +1,722 @@
+[
+    {
+        "id": "DIA-NN_20241128_155610",
+        "software_name": "DIA-NN",
+        "software_version": "1.9.2",
+        "search_engine": "DIA-NN",
+        "search_engine_version": "1.9.2",
+        "ident_fdr_psm": "",
+        "ident_fdr_peptide": 0.01,
+        "ident_fdr_protein": 0.01,
+        "enable_match_between_runs": false,
+        "precursor_mass_tolerance": "7.89772 ppm",
+        "fragment_mass_tolerance": "7.89772 ppm",
+        "enzyme": "K*,R*",
+        "allowed_miscleavages": 2,
+        "min_peptide_length": "",
+        "max_peptide_length": "",
+        "is_temporary": true,
+        "intermediate_hash": "5c7091c4cc8f2cc7ca9172a237cf64943e5698c9",
+        "results": {
+            "6": {
+                "median_abs_epsilon": 0.43325699006759444,
+                "variance_epsilon": 0.16643474962384233,
+                "nr_prec": 21996,
+                "CV_median": 0.14832961858708277,
+                "CV_q90": 0.30952031560658577,
+                "CV_q75": 0.22394743753186552,
+                "CV_q95": 0.37414496632604094
+            },
+            "5": {
+                "median_abs_epsilon": 0.4688153991114805,
+                "variance_epsilon": 0.2376655971581545,
+                "nr_prec": 27674,
+                "CV_median": 0.15608656796917997,
+                "CV_q90": 0.34033267245524385,
+                "CV_q75": 0.2410705409876822,
+                "CV_q95": 0.4191697136962969
+            },
+            "4": {
+                "median_abs_epsilon": 0.5140319835778655,
+                "variance_epsilon": 0.3343040224992087,
+                "nr_prec": 33191,
+                "CV_median": 0.1623336759574675,
+                "CV_q90": 0.3611573768994397,
+                "CV_q75": 0.2519949082893511,
+                "CV_q95": 0.45231528800476417
+            },
+            "3": {
+                "median_abs_epsilon": 0.5460385534206499,
+                "variance_epsilon": 0.4211998986393943,
+                "nr_prec": 39152,
+                "CV_median": 0.16878002422848942,
+                "CV_q90": 0.3845554358534744,
+                "CV_q75": 0.2633530499105456,
+                "CV_q95": 0.49110438133007284
+            },
+            "2": {
+                "median_abs_epsilon": 0.565532027534934,
+                "variance_epsilon": 0.4820768007676837,
+                "nr_prec": 43761,
+                "CV_median": 0.17137982477546293,
+                "CV_q90": 0.40133844470736346,
+                "CV_q75": 0.26939049839819706,
+                "CV_q95": 0.524275281330764
+            },
+            "1": {
+                "median_abs_epsilon": 0.5655320275349341,
+                "variance_epsilon": 0.4820768007676837,
+                "nr_prec": 46668,
+                "CV_median": 0.17137982477546293,
+                "CV_q90": 0.40133844470736346,
+                "CV_q75": 0.26939049839819706,
+                "CV_q95": 0.524275281330764
+            }
+        },
+        "median_abs_epsilon": 0.5460385534206499,
+        "nr_prec": 0,
+        "comments": "5",
+        "proteobench_version": "0.4.1.dev69+g6f8ac03.d20241115",
+        "old_new": "old"
+    },
+    {
+        "id": "DIA-NN_20241128_155615",
+        "software_name": "DIA-NN",
+        "software_version": "1.9.2",
+        "search_engine": "DIA-NN",
+        "search_engine_version": "1.9.2",
+        "ident_fdr_psm": "",
+        "ident_fdr_peptide": 0.01,
+        "ident_fdr_protein": 0.01,
+        "enable_match_between_runs": false,
+        "precursor_mass_tolerance": "7.89772 ppm",
+        "fragment_mass_tolerance": "7.89772 ppm",
+        "enzyme": "K*,R*",
+        "allowed_miscleavages": 2,
+        "min_peptide_length": "",
+        "max_peptide_length": "",
+        "is_temporary": true,
+        "intermediate_hash": "d3901c04436d032daace0c407981f1b433cc06eb",
+        "results": {
+            "6": {
+                "median_abs_epsilon": 0.42269117014264346,
+                "variance_epsilon": 0.1410204898048721,
+                "nr_prec": 19624,
+                "CV_median": 0.14078802511955424,
+                "CV_q90": 0.2937012295792789,
+                "CV_q75": 0.21170778024768994,
+                "CV_q95": 0.3526663246518953
+            },
+            "5": {
+                "median_abs_epsilon": 0.43568679674833244,
+                "variance_epsilon": 0.17221973013106223,
+                "nr_prec": 23974,
+                "CV_median": 0.14607340089339496,
+                "CV_q90": 0.31418998669925163,
+                "CV_q75": 0.22356919484943188,
+                "CV_q95": 0.3825496393774643
+            },
+            "4": {
+                "median_abs_epsilon": 0.46296292161562486,
+                "variance_epsilon": 0.23688815176047004,
+                "nr_prec": 27976,
+                "CV_median": 0.14925890555092355,
+                "CV_q90": 0.328787553288056,
+                "CV_q75": 0.2312945896932907,
+                "CV_q95": 0.40592410318787975
+            },
+            "3": {
+                "median_abs_epsilon": 0.4888836746898366,
+                "variance_epsilon": 0.29775711266984173,
+                "nr_prec": 32579,
+                "CV_median": 0.15208199744747458,
+                "CV_q90": 0.3417117032799736,
+                "CV_q75": 0.23780290646455615,
+                "CV_q95": 0.42719725368656747
+            },
+            "2": {
+                "median_abs_epsilon": 0.506491194238019,
+                "variance_epsilon": 0.3429273392124887,
+                "nr_prec": 37605,
+                "CV_median": 0.15334794483781947,
+                "CV_q90": 0.3508763872179863,
+                "CV_q75": 0.24165498725102572,
+                "CV_q95": 0.44534512060882625
+            },
+            "1": {
+                "median_abs_epsilon": 0.5064911942380191,
+                "variance_epsilon": 0.3429273392124887,
+                "nr_prec": 43334,
+                "CV_median": 0.15334794483781947,
+                "CV_q90": 0.3508763872179863,
+                "CV_q75": 0.24165498725102572,
+                "CV_q95": 0.44534512060882625
+            }
+        },
+        "median_abs_epsilon": 0.4888836746898366,
+        "nr_prec": 0,
+        "comments": "6",
+        "proteobench_version": "0.4.1.dev69+g6f8ac03.d20241115",
+        "old_new": "old"
+    },
+    {
+        "id": "DIA-NN_20241128_155621",
+        "software_name": "DIA-NN",
+        "software_version": "1.9.2",
+        "search_engine": "DIA-NN",
+        "search_engine_version": "1.9.2",
+        "ident_fdr_psm": "",
+        "ident_fdr_peptide": 0.01,
+        "ident_fdr_protein": 0.01,
+        "enable_match_between_runs": false,
+        "precursor_mass_tolerance": "7.89772 ppm",
+        "fragment_mass_tolerance": "7.89772 ppm",
+        "enzyme": "K*,R*",
+        "allowed_miscleavages": 2,
+        "min_peptide_length": "",
+        "max_peptide_length": "",
+        "is_temporary": true,
+        "intermediate_hash": "c02bdb8730ea554c31899637b81337371a6b55c9",
+        "results": {
+            "6": {
+                "median_abs_epsilon": 0.44035078738435174,
+                "variance_epsilon": 0.18742810305151653,
+                "nr_prec": 28365,
+                "CV_median": 0.16201557688591683,
+                "CV_q90": 0.35444909230252747,
+                "CV_q75": 0.2498981089520005,
+                "CV_q95": 0.4379404950255674
+            },
+            "5": {
+                "median_abs_epsilon": 0.47437178697913,
+                "variance_epsilon": 0.2678562943478375,
+                "nr_prec": 34834,
+                "CV_median": 0.1719257161107575,
+                "CV_q90": 0.39743273451795125,
+                "CV_q75": 0.27040310962318936,
+                "CV_q95": 0.5137221986404918
+            },
+            "4": {
+                "median_abs_epsilon": 0.5198214335608891,
+                "variance_epsilon": 0.3986191105713048,
+                "nr_prec": 39791,
+                "CV_median": 0.1768902895602488,
+                "CV_q90": 0.42627652356891854,
+                "CV_q75": 0.2821077042062773,
+                "CV_q95": 0.5642694653071492
+            },
+            "3": {
+                "median_abs_epsilon": 0.5540487867652933,
+                "variance_epsilon": 0.49810904368398456,
+                "nr_prec": 43930,
+                "CV_median": 0.17976990740848608,
+                "CV_q90": 0.4453531297913691,
+                "CV_q75": 0.2897059746116031,
+                "CV_q95": 0.5971289904080469
+            },
+            "2": {
+                "median_abs_epsilon": 0.5664640153719391,
+                "variance_epsilon": 0.5411004291211212,
+                "nr_prec": 46467,
+                "CV_median": 0.180695426860142,
+                "CV_q90": 0.452371260224361,
+                "CV_q75": 0.29270413211274204,
+                "CV_q95": 0.6113079398993694
+            },
+            "1": {
+                "median_abs_epsilon": 0.5664640153719392,
+                "variance_epsilon": 0.5411004291211212,
+                "nr_prec": 47497,
+                "CV_median": 0.180695426860142,
+                "CV_q90": 0.452371260224361,
+                "CV_q75": 0.29270413211274204,
+                "CV_q95": 0.6113079398993694
+            }
+        },
+        "median_abs_epsilon": 0.5540487867652933,
+        "nr_prec": 0,
+        "comments": "2",
+        "proteobench_version": "0.4.1.dev69+g6f8ac03.d20241115",
+        "old_new": "old"
+    },
+    {
+        "id": "DIA-NN_20241128_155627",
+        "software_name": "DIA-NN",
+        "software_version": "1.9.2",
+        "search_engine": "DIA-NN",
+        "search_engine_version": "1.9.2",
+        "ident_fdr_psm": "",
+        "ident_fdr_peptide": 0.01,
+        "ident_fdr_protein": 0.01,
+        "enable_match_between_runs": false,
+        "precursor_mass_tolerance": "9.38287 ppm",
+        "fragment_mass_tolerance": "9.38287 ppm",
+        "enzyme": "K*,R*",
+        "allowed_miscleavages": 2,
+        "min_peptide_length": "",
+        "max_peptide_length": "",
+        "is_temporary": true,
+        "intermediate_hash": "bf8aba4c66237603c2bf3ef2368f730704e23f92",
+        "results": {
+            "6": {
+                "median_abs_epsilon": 0.4222446081979055,
+                "variance_epsilon": 0.1710073712815402,
+                "nr_prec": 27280,
+                "CV_median": 0.15769047089869537,
+                "CV_q90": 0.34099653021258347,
+                "CV_q75": 0.24252829020102293,
+                "CV_q95": 0.4182352322681051
+            },
+            "5": {
+                "median_abs_epsilon": 0.4488225275692003,
+                "variance_epsilon": 0.23693645600272822,
+                "nr_prec": 33455,
+                "CV_median": 0.16626104785809273,
+                "CV_q90": 0.37970442748189903,
+                "CV_q75": 0.26074731003476864,
+                "CV_q95": 0.4867376623465616
+            },
+            "4": {
+                "median_abs_epsilon": 0.4933604585882998,
+                "variance_epsilon": 0.35981659967835494,
+                "nr_prec": 38544,
+                "CV_median": 0.17151933029867555,
+                "CV_q90": 0.40718656455638724,
+                "CV_q75": 0.2735186259408273,
+                "CV_q95": 0.5371764728545645
+            },
+            "3": {
+                "median_abs_epsilon": 0.5280235490403432,
+                "variance_epsilon": 0.46221505825207904,
+                "nr_prec": 43191,
+                "CV_median": 0.17461376308261695,
+                "CV_q90": 0.4264588577129444,
+                "CV_q75": 0.2814536546975378,
+                "CV_q95": 0.5707274776806789
+            },
+            "2": {
+                "median_abs_epsilon": 0.5425144823044109,
+                "variance_epsilon": 0.509676095143798,
+                "nr_prec": 46178,
+                "CV_median": 0.17561333314351893,
+                "CV_q90": 0.4345833007075993,
+                "CV_q75": 0.28439952937194857,
+                "CV_q95": 0.5866558649512927
+            },
+            "1": {
+                "median_abs_epsilon": 0.5425144823044108,
+                "variance_epsilon": 0.509676095143798,
+                "nr_prec": 47621,
+                "CV_median": 0.17561333314351893,
+                "CV_q90": 0.4345833007075993,
+                "CV_q75": 0.28439952937194857,
+                "CV_q95": 0.5866558649512927
+            }
+        },
+        "median_abs_epsilon": 0.5280235490403432,
+        "nr_prec": 0,
+        "comments": "8",
+        "proteobench_version": "0.4.1.dev69+g6f8ac03.d20241115",
+        "old_new": "old"
+    },
+    {
+        "id": "DIA-NN_20241128_155638",
+        "software_name": "DIA-NN",
+        "software_version": "1.9.2",
+        "search_engine": "DIA-NN",
+        "search_engine_version": "1.9.2",
+        "ident_fdr_psm": "",
+        "ident_fdr_peptide": 0.01,
+        "ident_fdr_protein": 0.01,
+        "enable_match_between_runs": false,
+        "precursor_mass_tolerance": "7.89772 ppm",
+        "fragment_mass_tolerance": "7.89772 ppm",
+        "enzyme": "K*,R*",
+        "allowed_miscleavages": 2,
+        "min_peptide_length": "",
+        "max_peptide_length": "",
+        "is_temporary": true,
+        "intermediate_hash": "dbadb7aa31c1b8dc81f42d90c02c03054d7d858e",
+        "results": {
+            "6": {
+                "median_abs_epsilon": 0.4688611596392538,
+                "variance_epsilon": 0.20689251360507,
+                "nr_prec": 28360,
+                "CV_median": 0.18144869951976472,
+                "CV_q90": 0.40121001733940587,
+                "CV_q75": 0.28140571153878713,
+                "CV_q95": 0.4912440383467567
+            },
+            "5": {
+                "median_abs_epsilon": 0.49986301695358043,
+                "variance_epsilon": 0.2707085825933769,
+                "nr_prec": 34831,
+                "CV_median": 0.19166929845718883,
+                "CV_q90": 0.44004099561191307,
+                "CV_q75": 0.30374887432987785,
+                "CV_q95": 0.5410916818313394
+            },
+            "4": {
+                "median_abs_epsilon": 0.5340296600351689,
+                "variance_epsilon": 0.3563879545656111,
+                "nr_prec": 39788,
+                "CV_median": 0.19681207928865174,
+                "CV_q90": 0.4592523522626153,
+                "CV_q75": 0.3147059956558889,
+                "CV_q95": 0.5633095102332395
+            },
+            "3": {
+                "median_abs_epsilon": 0.5574780413582134,
+                "variance_epsilon": 0.41426800776813316,
+                "nr_prec": 43928,
+                "CV_median": 0.19965377849340304,
+                "CV_q90": 0.4702177879297475,
+                "CV_q75": 0.3207149788072775,
+                "CV_q95": 0.5781912060273642
+            },
+            "2": {
+                "median_abs_epsilon": 0.5648604034100818,
+                "variance_epsilon": 0.4318284601930707,
+                "nr_prec": 46467,
+                "CV_median": 0.2004191291669637,
+                "CV_q90": 0.4746666433822829,
+                "CV_q75": 0.32284561591451877,
+                "CV_q95": 0.5837996996712893
+            },
+            "1": {
+                "median_abs_epsilon": 0.5648604034100818,
+                "variance_epsilon": 0.43182846019307075,
+                "nr_prec": 47497,
+                "CV_median": 0.2004191291669637,
+                "CV_q90": 0.4746666433822829,
+                "CV_q75": 0.32284561591451877,
+                "CV_q95": 0.5837996996712893
+            }
+        },
+        "median_abs_epsilon": 0.5574780413582134,
+        "nr_prec": 0,
+        "comments": "4",
+        "proteobench_version": "0.4.1.dev69+g6f8ac03.d20241115",
+        "old_new": "old"
+    },
+    {
+        "id": "DIA-NN_20241128_155644",
+        "software_name": "DIA-NN",
+        "software_version": "1.9.2",
+        "search_engine": "DIA-NN",
+        "search_engine_version": "1.9.2",
+        "ident_fdr_psm": "",
+        "ident_fdr_peptide": 0.01,
+        "ident_fdr_protein": 0.01,
+        "enable_match_between_runs": false,
+        "precursor_mass_tolerance": "7.89772 ppm",
+        "fragment_mass_tolerance": "7.89772 ppm",
+        "enzyme": "K*,R*",
+        "allowed_miscleavages": 2,
+        "min_peptide_length": "",
+        "max_peptide_length": "",
+        "is_temporary": true,
+        "intermediate_hash": "f63c974375148fc98dde47d384a773dec72b0a71",
+        "results": {
+            "6": {
+                "median_abs_epsilon": 0.4403507874987209,
+                "variance_epsilon": 0.1874281031528054,
+                "nr_prec": 28365,
+                "CV_median": 0.16201557688591683,
+                "CV_q90": 0.35444909230252747,
+                "CV_q75": 0.2498981089520005,
+                "CV_q95": 0.4379404950255674
+            },
+            "5": {
+                "median_abs_epsilon": 0.47437178695958065,
+                "variance_epsilon": 0.26785629435000446,
+                "nr_prec": 34834,
+                "CV_median": 0.1719257161107575,
+                "CV_q90": 0.39743273451795125,
+                "CV_q75": 0.27040310962318936,
+                "CV_q95": 0.5137221986404918
+            },
+            "4": {
+                "median_abs_epsilon": 0.5198214335651326,
+                "variance_epsilon": 0.39861911056603117,
+                "nr_prec": 39791,
+                "CV_median": 0.1768902895602488,
+                "CV_q90": 0.42627652356891854,
+                "CV_q75": 0.2821077042062773,
+                "CV_q95": 0.5642694653071492
+            },
+            "3": {
+                "median_abs_epsilon": 0.5540487867977085,
+                "variance_epsilon": 0.49810904372377907,
+                "nr_prec": 43930,
+                "CV_median": 0.17976990740848608,
+                "CV_q90": 0.4453531297913691,
+                "CV_q75": 0.2897059746116031,
+                "CV_q95": 0.5971289904080469
+            },
+            "2": {
+                "median_abs_epsilon": 0.5664640154037182,
+                "variance_epsilon": 0.5411004291597898,
+                "nr_prec": 46467,
+                "CV_median": 0.180695426860142,
+                "CV_q90": 0.452371260224361,
+                "CV_q75": 0.29270413211274204,
+                "CV_q95": 0.6113079398993694
+            },
+            "1": {
+                "median_abs_epsilon": 0.5664640154037182,
+                "variance_epsilon": 0.54110042915979,
+                "nr_prec": 47497,
+                "CV_median": 0.180695426860142,
+                "CV_q90": 0.452371260224361,
+                "CV_q75": 0.29270413211274204,
+                "CV_q95": 0.6113079398993694
+            }
+        },
+        "median_abs_epsilon": 0.5540487867977085,
+        "nr_prec": 0,
+        "comments": "9",
+        "proteobench_version": "0.4.1.dev69+g6f8ac03.d20241115",
+        "old_new": "old"
+    },
+    {
+        "id": "DIA-NN_20241128_155650",
+        "software_name": "DIA-NN",
+        "software_version": "1.9.2",
+        "search_engine": "DIA-NN",
+        "search_engine_version": "1.9.2",
+        "ident_fdr_psm": "",
+        "ident_fdr_peptide": 0.01,
+        "ident_fdr_protein": 0.01,
+        "enable_match_between_runs": false,
+        "precursor_mass_tolerance": "7.89772 ppm",
+        "fragment_mass_tolerance": "7.89772 ppm",
+        "enzyme": "K*,R*",
+        "allowed_miscleavages": 2,
+        "min_peptide_length": "",
+        "max_peptide_length": "",
+        "is_temporary": true,
+        "intermediate_hash": "10ee019c6dc3bd05b9f14ad54f7d932a503daff6",
+        "results": {
+            "6": {
+                "median_abs_epsilon": 0.44296406542264816,
+                "variance_epsilon": 0.18359482574019348,
+                "nr_prec": 27874,
+                "CV_median": 0.15911060639213198,
+                "CV_q90": 0.3468514380709684,
+                "CV_q75": 0.24521768455159032,
+                "CV_q95": 0.42774873701680116
+            },
+            "5": {
+                "median_abs_epsilon": 0.47708825494762924,
+                "variance_epsilon": 0.26365072704603426,
+                "nr_prec": 34392,
+                "CV_median": 0.16856110376881925,
+                "CV_q90": 0.38742132179330513,
+                "CV_q75": 0.26497889248828954,
+                "CV_q95": 0.49828062091340086
+            },
+            "4": {
+                "median_abs_epsilon": 0.52377667380042,
+                "variance_epsilon": 0.39452392195842945,
+                "nr_prec": 39465,
+                "CV_median": 0.17394073674889998,
+                "CV_q90": 0.4173930452097366,
+                "CV_q75": 0.27698435919505004,
+                "CV_q95": 0.5522798193991703
+            },
+            "3": {
+                "median_abs_epsilon": 0.5596008134884656,
+                "variance_epsilon": 0.4967480907756804,
+                "nr_prec": 43666,
+                "CV_median": 0.17701946720985592,
+                "CV_q90": 0.43655394575719764,
+                "CV_q75": 0.2843731341222107,
+                "CV_q95": 0.5828738844212584
+            },
+            "2": {
+                "median_abs_epsilon": 0.5730970645276441,
+                "variance_epsilon": 0.5437662437299946,
+                "nr_prec": 46411,
+                "CV_median": 0.1781821174976946,
+                "CV_q90": 0.44493360584256414,
+                "CV_q75": 0.2875224007981764,
+                "CV_q95": 0.5988490755417095
+            },
+            "1": {
+                "median_abs_epsilon": 0.573097064527644,
+                "variance_epsilon": 0.5437662437299945,
+                "nr_prec": 47490,
+                "CV_median": 0.1781821174976946,
+                "CV_q90": 0.44493360584256414,
+                "CV_q75": 0.2875224007981764,
+                "CV_q95": 0.5988490755417095
+            }
+        },
+        "median_abs_epsilon": 0.5596008134884656,
+        "nr_prec": 0,
+        "comments": "7",
+        "proteobench_version": "0.4.1.dev69+g6f8ac03.d20241115",
+        "old_new": "old"
+    },
+    {
+        "id": "DIA-NN_20241128_155656",
+        "software_name": "DIA-NN",
+        "software_version": "1.9.2",
+        "search_engine": "DIA-NN",
+        "search_engine_version": "1.9.2",
+        "ident_fdr_psm": "",
+        "ident_fdr_peptide": 0.01,
+        "ident_fdr_protein": 0.01,
+        "enable_match_between_runs": false,
+        "precursor_mass_tolerance": "9.25594 ppm",
+        "fragment_mass_tolerance": "9.25594 ppm",
+        "enzyme": "K*,R*",
+        "allowed_miscleavages": 2,
+        "min_peptide_length": 7,
+        "max_peptide_length": 30,
+        "is_temporary": true,
+        "intermediate_hash": "6befcb5e0417b05bd7070746dbc44f29a5ac43a6",
+        "results": {
+            "6": {
+                "median_abs_epsilon": 0.41668784121664154,
+                "variance_epsilon": 0.13263755985024056,
+                "nr_prec": 22760,
+                "CV_median": 0.14819004608871272,
+                "CV_q90": 0.31088206368027427,
+                "CV_q75": 0.22513155833058823,
+                "CV_q95": 0.3692669830702989
+            },
+            "5": {
+                "median_abs_epsilon": 0.42955665416558964,
+                "variance_epsilon": 0.16034474063152743,
+                "nr_prec": 27862,
+                "CV_median": 0.15482605845063951,
+                "CV_q90": 0.3331881848258864,
+                "CV_q75": 0.23815532374193343,
+                "CV_q95": 0.400852848092429
+            },
+            "4": {
+                "median_abs_epsilon": 0.4510325684226702,
+                "variance_epsilon": 0.20807694103483318,
+                "nr_prec": 32232,
+                "CV_median": 0.15819469805422404,
+                "CV_q90": 0.3462468272940279,
+                "CV_q75": 0.24592826590560782,
+                "CV_q95": 0.42323666106384106
+            },
+            "3": {
+                "median_abs_epsilon": 0.4759164565754304,
+                "variance_epsilon": 0.2628784713070371,
+                "nr_prec": 37643,
+                "CV_median": 0.16104354541678537,
+                "CV_q90": 0.3584023754548532,
+                "CV_q75": 0.2523823709789322,
+                "CV_q95": 0.4419173810720104
+            },
+            "2": {
+                "median_abs_epsilon": 0.49674149817623836,
+                "variance_epsilon": 0.31663155153480943,
+                "nr_prec": 44073,
+                "CV_median": 0.1622648381004696,
+                "CV_q90": 0.36870637341816537,
+                "CV_q75": 0.25652027701280333,
+                "CV_q95": 0.46030316128772236
+            },
+            "1": {
+                "median_abs_epsilon": 0.49674149817623836,
+                "variance_epsilon": 0.3166315515348095,
+                "nr_prec": 55124,
+                "CV_median": 0.1622648381004696,
+                "CV_q90": 0.36870637341816537,
+                "CV_q75": 0.25652027701280333,
+                "CV_q95": 0.46030316128772236
+            }
+        },
+        "median_abs_epsilon": 0.4759164565754304,
+        "nr_prec": 0,
+        "comments": "1",
+        "proteobench_version": "0.4.1.dev69+g6f8ac03.d20241115",
+        "old_new": "old"
+    },
+    {
+        "id": "DIA-NN_20241128_155701",
+        "software_name": "DIA-NN",
+        "software_version": "1.9.2",
+        "search_engine": "DIA-NN",
+        "search_engine_version": "1.9.2",
+        "ident_fdr_psm": "",
+        "ident_fdr_peptide": 0.01,
+        "ident_fdr_protein": 0.01,
+        "enable_match_between_runs": false,
+        "precursor_mass_tolerance": "7.89772 ppm",
+        "fragment_mass_tolerance": "7.89772 ppm",
+        "enzyme": "K*,R*",
+        "allowed_miscleavages": 2,
+        "min_peptide_length": "",
+        "max_peptide_length": "",
+        "is_temporary": true,
+        "intermediate_hash": "7fd53539d34a6f1c7ec43db9cb4bd56027331e06",
+        "results": {
+            "6": {
+                "median_abs_epsilon": 0.43910395735734065,
+                "variance_epsilon": 0.18535881659839185,
+                "nr_prec": 28340,
+                "CV_median": 0.16170504970740418,
+                "CV_q90": 0.35355056035006677,
+                "CV_q75": 0.24952838953378104,
+                "CV_q95": 0.4361983535835246
+            },
+            "5": {
+                "median_abs_epsilon": 0.4740289186298265,
+                "variance_epsilon": 0.26792570367806273,
+                "nr_prec": 34828,
+                "CV_median": 0.17157265600904142,
+                "CV_q90": 0.39709933026296845,
+                "CV_q75": 0.2700798219322931,
+                "CV_q95": 0.5128118517767047
+            },
+            "4": {
+                "median_abs_epsilon": 0.5209085649524907,
+                "variance_epsilon": 0.401524734483312,
+                "nr_prec": 39799,
+                "CV_median": 0.17659199924275304,
+                "CV_q90": 0.42538081643810144,
+                "CV_q75": 0.2817747491926439,
+                "CV_q95": 0.5635622659203181
+            },
+            "3": {
+                "median_abs_epsilon": 0.5550608977946947,
+                "variance_epsilon": 0.5005196649645708,
+                "nr_prec": 43943,
+                "CV_median": 0.1795898129006304,
+                "CV_q90": 0.4446455644786424,
+                "CV_q75": 0.28918934817939124,
+                "CV_q95": 0.5965976538019476
+            },
+            "2": {
+                "median_abs_epsilon": 0.5667594666290222,
+                "variance_epsilon": 0.5402335804000332,
+                "nr_prec": 46476,
+                "CV_median": 0.18045028422122572,
+                "CV_q90": 0.45166817925597746,
+                "CV_q75": 0.29207397425105164,
+                "CV_q95": 0.6109438980125406
+            },
+            "1": {
+                "median_abs_epsilon": 0.5667594666290222,
+                "variance_epsilon": 0.5402335804000332,
+                "nr_prec": 47500,
+                "CV_median": 0.18045028422122572,
+                "CV_q90": 0.45166817925597746,
+                "CV_q75": 0.29207397425105164,
+                "CV_q95": 0.6109438980125406
+            }
+        },
+        "median_abs_epsilon": 0.5550608977946947,
+        "nr_prec": 0,
+        "comments": "10",
+        "proteobench_version": "0.4.1.dev69+g6f8ac03.d20241115",
+        "old_new": "new"
+    }
+]
