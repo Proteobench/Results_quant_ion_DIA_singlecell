@@ -1,0 +1,96 @@
+{
+    "id": "DIA-NN_20250331_115915",
+    "software_name": "DIA-NN",
+    "software_version": "1.9.2",
+    "search_engine": "DIA-NN",
+    "search_engine_version": "1.9.2",
+    "ident_fdr_psm": "None",
+    "ident_fdr_peptide": 0.01,
+    "ident_fdr_protein": 0.01,
+    "enable_match_between_runs": "False",
+    "precursor_mass_tolerance": "[-7.89772 ppm, 7.89772 ppm]",
+    "fragment_mass_tolerance": "[-7.89772 ppm, 7.89772 ppm]",
+    "enzyme": "Trypsin/P",
+    "allowed_miscleavages": 2,
+    "min_peptide_length": "None",
+    "max_peptide_length": "None",
+    "is_temporary": false,
+    "intermediate_hash": "c02bdb8730ea554c31899637b81337371a6b55c9",
+    "results": {
+        "6": {
+            "median_abs_epsilon": 0.37615462193656535,
+            "mean_abs_epsilon": 0.44035078738435174,
+            "variance_epsilon": 0.18742810305151653,
+            "nr_prec": 28365,
+            "CV_median": 0.16201557688591683,
+            "CV_q90": 0.35444909230252747,
+            "CV_q75": 0.2498981089520005,
+            "CV_q95": 0.4379404950255674
+        },
+        "5": {
+            "median_abs_epsilon": 0.3890909806209949,
+            "mean_abs_epsilon": 0.47437178697913,
+            "variance_epsilon": 0.2678562943478375,
+            "nr_prec": 34834,
+            "CV_median": 0.1719257161107575,
+            "CV_q90": 0.39743273451795125,
+            "CV_q75": 0.27040310962318936,
+            "CV_q95": 0.5137221986404918
+        },
+        "4": {
+            "median_abs_epsilon": 0.40417209410564015,
+            "mean_abs_epsilon": 0.5198214335608891,
+            "variance_epsilon": 0.3986191105713048,
+            "nr_prec": 39791,
+            "CV_median": 0.1768902895602488,
+            "CV_q90": 0.42627652356891854,
+            "CV_q75": 0.2821077042062773,
+            "CV_q95": 0.5642694653071492
+        },
+        "3": {
+            "median_abs_epsilon": 0.4143243500274755,
+            "mean_abs_epsilon": 0.5540487867652933,
+            "variance_epsilon": 0.49810904368398456,
+            "nr_prec": 43930,
+            "CV_median": 0.17976990740848608,
+            "CV_q90": 0.4453531297913691,
+            "CV_q75": 0.2897059746116031,
+            "CV_q95": 0.5971289904080469
+        },
+        "2": {
+            "median_abs_epsilon": 0.4180781341644106,
+            "mean_abs_epsilon": 0.5664640153719391,
+            "variance_epsilon": 0.5411004291211212,
+            "nr_prec": 46467,
+            "CV_median": 0.180695426860142,
+            "CV_q90": 0.452371260224361,
+            "CV_q75": 0.29270413211274204,
+            "CV_q95": 0.6113079398993694
+        },
+        "1": {
+            "median_abs_epsilon": 0.4180781341644106,
+            "mean_abs_epsilon": 0.5664640153719392,
+            "variance_epsilon": 0.5411004291211212,
+            "nr_prec": 47497,
+            "CV_median": 0.180695426860142,
+            "CV_q90": 0.452371260224361,
+            "CV_q75": 0.29270413211274204,
+            "CV_q95": 0.6113079398993694
+        }
+    },
+    "median_abs_epsilon": 0.37615462193656535,
+    "mean_abs_epsilon": 0.44035078738435174,
+    "nr_prec": 28365,
+    "comments": {
+        "quantification_method": "QuantUMS high-precision",
+        "protein_inference": "Genes",
+        "Machine learning": "Single-pass NNs",
+        "Cross-run normalisation": "RT-dependent",
+        "MBR-comment": "speclib"
+    },
+    "proteobench_version": "0.1.dev1913+gfa1be73",
+    "old_new": "old",
+    "color": "#8c564b",
+    "hover_text": "ProteoBench ID: DIA-NN_20250331_115915<br>Software tool: DIA-NN 1.9.2<br>Comment (private submission): {'quantification_method': 'QuantUMS high-precision', 'protein_inference': 'Genes', 'Machine learning': 'Single-pass NNs', 'Cross-run normalisation': 'RT-dependent', 'MBR-comment': 'speclib'}",
+    "scatter_size": 10
+}
